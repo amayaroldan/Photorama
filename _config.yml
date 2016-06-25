@@ -30,7 +30,7 @@ comments :
 
 # Internal nav
 nav:
- gallery: "baseurl/gallery/"
+ gallery: "baseurl/galería/"
  about: "baseurl/about/"
 
 # All translation keys
