@@ -31,7 +31,7 @@ comments :
 # Internal nav
 nav:
  gallery: "baseurl/galería/"
- about: "baseurl/about/"
+ about: "baseurl/contacto/"
 
 # All translation keys
 translations:
